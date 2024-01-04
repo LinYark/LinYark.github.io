@@ -1,0 +1,16 @@
+# normal
+</p>
+<p>I'm a Optical Engineering PhD student in <a href="https://www.hust.edu.cn/">HUST</a>, working with <a href="http://faculty.hust.edu.cn/zengshaoqun/zh_CN/index.htm">Prof. Shaoqun Zeng</a>. .
+</p>
+
+# link
+<a href="https://www.hust.edu.cn/">HUST</a>
+
+# /n
+<p>
+    My research interest is to <strong>simulate the imaging process of optical lens to correct the downstream focusing task</strong>.
+    <br>
+    Our research team is exploring various possibilities for achieving high-resolution and large-field ophthalmic surgeries.
+    This is also the significance of my research on the optical lens.
+    <br>
+</p>
